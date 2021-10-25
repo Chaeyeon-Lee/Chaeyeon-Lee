@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Chaeyeon-Lee. 
+- 👋 Hi, I’m @Chaeyeon-Lee.
 - 👀 I’m interested in Design, Gundam Series, Mobile Game, Console Game.
 - 🌱 I’m currently learning React.js, JavaScript...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
   *Mobile : +82)010-2984-8546
   *E-Mail : lcy223344@gmail.com 
